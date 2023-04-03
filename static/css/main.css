@@ -1,0 +1,145 @@
+/* #recipeSect > * {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+} */
+
+/* #recipes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.recipe {
+    outline: 2px solid #d6d6d6;
+    max-width: 310px;
+    border-radius: 15px;    
+}
+.recipe:not(:last-child) {
+    margin-bottom: 20px;
+}
+.recipe img {
+    width: 100%;
+    height: auto;
+    border-radius: 15px 15px 0 0;
+}
+.recipe .recipeTitle {
+    text-align: center;
+    padding: 5px 0;
+}
+.outlineMargin {
+    height: 20px;
+} */
+
+section {
+    padding: 50px 4%;
+}
+
+section > *:not(:last-child) {
+    margin-bottom: 20px;
+} 
+
+#aboutSect {
+    /* background-color: #f2f3ee; */
+    background-color: red;
+    text-align: center;
+}
+
+#feedSect {
+    background-color: #e9edc9;
+}
+#feedSect img {
+    width: 93%;
+    max-width: 600px;
+    height: auto;
+    border-radius: 30px;
+}
+
+#recipeSect {
+    background-color: #ccd5ae;
+}
+#recipeSect .recipe {
+    background-color: #f2f3ee;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-radius: 30px;
+}
+#recipeSect .recipe:last-child {
+    margin-bottom: 0;
+}
+#recipeSect .recipe img {
+    width: 100%;
+    height: auto;
+    border-radius: 30px;
+    margin-bottom: 10px;
+}
+/* #recipeSect .recipe > *:not(:last-child) {
+    margin-bottom: 15px;
+} */
+#recipeSect .recipe .recipeTitle {
+    text-align: center;
+    font-family: heptaSlab-Medium;
+    /* margin-bottom: 10px; */
+}
+#recipeSect .recipe .recipeHeadline {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 20px;
+}
+
+#contactSect {
+    background-color: #f2f3ee;
+}
+
+.sectHeadline {
+    display: block;
+    text-align: center;
+    font-family: cooperBlack;
+    font-weight: lighter;
+    font-size: 2em;
+    letter-spacing: 1px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+form label {
+    font-weight: bold;
+    margin-bottom: 12px;
+    font-size: 18px;
+}
+form input {
+    height: 40px;
+}
+form input, form textarea {
+    border: 2px solid #ccd5ae;
+    border-radius: 8px;
+    background-color: #f7f7f7;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-family: heptaSlab;
+}
+form input[type="submit"] {
+    border: none;
+}
+
+@media only screen and (min-width: 1200px) {
+    #recipes {
+        flex-direction: row;
+    }
+
+    .recipe {
+        margin: 0 20px;
+    }
+    .recipe:not(:last-child) {
+        margin-bottom: 0;
+    }
+}

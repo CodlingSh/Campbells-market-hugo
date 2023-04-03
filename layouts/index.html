@@ -1,0 +1,110 @@
+{{ define "main" }}
+
+<nav>
+    <div class="mobile">
+        <div id="navBtn">☰</div>
+    </div>
+    <div class="desktop">
+        <div class="links">
+            <a href="/" class="currPage">HOME</a>
+            <a href="/about.html">ABOUT</a>
+            <a href="/chickencam.html">CHICKEN CAM</a>
+            <a href="/recipes.html">RECIPES</a>
+            <a href="/contact.html">CONTACT</a>
+        </div>
+    </div>
+</nav>
+
+<div id="opacityLayer" class="opacityLayer"></div>
+
+<section id="navMenu" class="navMenu">
+    <a href="/">Home</a>
+    <a href="/about.html">About Us</a>
+    <a href="/chickencam.html">Chicken Com</a>
+    <a href="/recipes.html">Recipes</a>
+    <a href="/contact.html">Contact Us</a>
+</section>
+
+<header>
+    <section id="welcomeMsg">
+        <h1 id="logo">CAMPBELL'S MARKET</h1>
+        <p id="introText">Sarnia's best in home grown eggs and produce</p>
+    </section>
+</header>
+
+    
+
+<main>
+    <section id="aboutSect">
+        <p>Here at Campbell's Market, we belive that fresh and homemade is best!</p>
+        <p>We only sell high-quality food that comes right from our backyard farm and is free from harmful chemicals and additives</p>
+        <a href="/about.html" class="buttonMain">Learn More</a>
+    </section>
+
+    <section id="feedSect">
+        <h3 class="sectHeadline">CHICKEN CAM</h3>
+        <img src="../static/images/chickens_00001.gif" width="300" height="200">
+        <p>Want to see our chickens in action? Click the buttons below to watch our live chicken cam.</p>
+        <a href="/chickencam.html" class="buttonMain">Watch feed</a>
+    </section>
+
+    <section id="recipeSect">
+        <h3 class="sectHeadline">RECIPES</h3>
+        <p>Need some recipes for your eggs? Check out some of our favorite recipes below:</p>
+        <div id="recipes">
+        
+            <div class="recipe">
+                <img src=../static/images/recipeTest.jpg height="150">
+                <h3 class="recipeTitle">tenth recipe</h3>
+                <!-- <p class="recipeHeadline">this is a headline about the tenth recipe</p> -->
+                <p class="recipeHeadline">A classic French dish with savory custard, cheese, bacon, and onions in a pie crust.</p>
+                <a href="/recipes/10.html" class="buttonMain">View Recipe</a>
+            </div>
+        
+        
+            <div class="recipe">
+                <img src=../static/images/recipeTest.jpg height="150">
+                <h3 class="recipeTitle">ninth recipe</h3>
+                <!-- <p class="recipeHeadline">this is a headline about the ninth recipe</p> -->
+                <p class="recipeHeadline">A classic French dish with savory custard, cheese, bacon, and onions in a pie crust.</p>
+                <a href="/recipes/9.html" class="buttonMain">View Recipe</a>
+            </div>
+        
+        
+            <div class="recipe">
+                <img src=../static/images/recipeTest.jpg height="150">
+                <h3 class="recipeTitle">eighth recipe</h3>
+                <!-- <p class="recipeHeadline">this is a headline about the eighth recipe</p> -->
+                <p class="recipeHeadline">A classic French dish with savory custard, cheese, bacon, and onions in a pie crust.</p>
+                <a href="/recipes/8.html" class="buttonMain">View Recipe</a>
+            </div>
+        
+        
+        </div>
+        <div>
+            <a href="recipes" class="buttonMain">More Recipes</a>
+        </div>
+    </section>
+
+    <section id="contactSect">
+        <h3 class="sectHeadline">GET IN TOUCH</h3>
+        <form name='contact' target="dummyFrame" method='POST' data-netlify="true" onsubmit="return validateContact()">
+            <!-- Name -->
+            <label for="name">Name<span class="errNotif" id="nameLbl"></span></label>
+            <input type="text" id="name" name="name">
+            <!-- Email -->
+            <label for="email">Email Address<span class="errNotif" id="emailLbl"></span></label>
+            <input type="text" id="email" name="email">
+            <!-- Message -->
+            <label for="messageBox">Your Message<span class="errNotif" id="msgLbl"></span></label>
+            <textarea id="messageBox" name="messageBox" rows="8"></textarea>
+            <!-- Submit Button -->
+            <input class="buttonMain" type="submit" id="submitBtn" value="Send Message">
+            <div id="validMessage"></div>
+        </form>
+    </section>
+</main>
+
+
+
+{{ end }}

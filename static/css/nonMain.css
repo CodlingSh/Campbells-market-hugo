@@ -1,0 +1,17 @@
+header {
+    height: 40vh;
+    margin-bottom: 36px;
+}
+header #introText {
+    display: none;
+}
+
+#recipePic {
+    display: block;
+    width: 90vw;
+    height: auto;
+    max-width: 400px;
+    margin: 0 auto;
+    border: 3px solid green;
+    border-radius: 15px;
+}
