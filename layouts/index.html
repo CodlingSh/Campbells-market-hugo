@@ -52,11 +52,19 @@
         <h3 class="sectHeadline">RECIPES</h3>
         <p>Need some recipes for your eggs? Check out some of our favorite recipes below:</p>
         <div id="recipes">
-        
+
+            {{- range where .Site.RegularPages "Type" "recipes" | first 3}}
             <div class="recipe">
                 <img src=../static/images/recipeTest.jpg height="150">
+                <h3 class="recipeTitle">{{ .Title }}</h3>
+                <p class="recipeHeadline">{{ .Description }}</p>
+                <a href="/recipes/10.html" class="buttonMain">View Recipe</a>
+            </div>
+            {{ end -}}
+        
+            <!-- <div class="recipe">
+                <img src=../static/images/recipeTest.jpg height="150">
                 <h3 class="recipeTitle">tenth recipe</h3>
-                <!-- <p class="recipeHeadline">this is a headline about the tenth recipe</p> -->
                 <p class="recipeHeadline">A classic French dish with savory custard, cheese, bacon, and onions in a pie crust.</p>
                 <a href="/recipes/10.html" class="buttonMain">View Recipe</a>
             </div>
@@ -65,7 +73,6 @@
             <div class="recipe">
                 <img src=../static/images/recipeTest.jpg height="150">
                 <h3 class="recipeTitle">ninth recipe</h3>
-                <!-- <p class="recipeHeadline">this is a headline about the ninth recipe</p> -->
                 <p class="recipeHeadline">A classic French dish with savory custard, cheese, bacon, and onions in a pie crust.</p>
                 <a href="/recipes/9.html" class="buttonMain">View Recipe</a>
             </div>
@@ -74,11 +81,10 @@
             <div class="recipe">
                 <img src=../static/images/recipeTest.jpg height="150">
                 <h3 class="recipeTitle">eighth recipe</h3>
-                <!-- <p class="recipeHeadline">this is a headline about the eighth recipe</p> -->
                 <p class="recipeHeadline">A classic French dish with savory custard, cheese, bacon, and onions in a pie crust.</p>
                 <a href="/recipes/8.html" class="buttonMain">View Recipe</a>
             </div>
-        
+         -->
         
         </div>
         <div>

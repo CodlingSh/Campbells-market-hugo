@@ -112,7 +112,6 @@ header {
     background-position: center;
     display: flex;
     align-items: center;
-    background: red;
 }
 header #welcomeMsg {
     width: 100%; height: min-content;
