@@ -190,7 +190,7 @@ footer > * {
         justify-content: center;
     }
     nav .links {
-        font-family: cooperBlack;
+        font-family: heptaSlab-Medium, Arial;
         font-size: 1.25em;
         letter-spacing: 1px;
         width: 800px;

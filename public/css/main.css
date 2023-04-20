@@ -44,8 +44,7 @@ section > *:not(:last-child) {
 } 
 
 #aboutSect {
-    /* background-color: #f2f3ee; */
-    background-color: red;
+    background-color: #f2f3ee;
     text-align: center;
 }
 
