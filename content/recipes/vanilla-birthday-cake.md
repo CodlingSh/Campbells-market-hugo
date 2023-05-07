@@ -1,7 +1,9 @@
 ---
 title: "Vanilla Birthday Cake"
+type: "recipes"
 date: 2023-04-19T00:21:48-04:00
 description: "This classic vanilla birthday cake recipe is perfect for any celebration. With a moist and tender crumb and sweet buttercream frosting, it's sure to impress."
+imageURL: "/images/recipes/deviled-eggs.jpg"
 ---
 
 ### Ingredients:

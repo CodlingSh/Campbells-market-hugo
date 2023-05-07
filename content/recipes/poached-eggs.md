@@ -3,6 +3,7 @@ title: "Poached Eggs"
 date: 2023-04-20T00:44:00-04:00
 draft: true
 description: "Poached eggs are a type of egg that are gently cooked in simmering water, creating a delicate and tender texture. The egg whites are set, while the yolk remains runny, making for a delicious and creamy combination. Poached eggs are often served for breakfast or brunch, either on their own or on top of toast, English muffins, or other breakfast dishes. They can also be a healthy and protein-packed addition to salads, sandwiches, and other meals."
+type: "recipes"
 ---
 
 ### Ingredients:

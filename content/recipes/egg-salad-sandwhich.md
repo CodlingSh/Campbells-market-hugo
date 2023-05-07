@@ -2,6 +2,7 @@
 title: "Egg Salad Sandwhich"
 date: 2023-04-19T00:06:10-04:00
 description: "This classic egg salad sandwich is easy to make and packed with flavor. Boiled eggs, creamy mayo, and crunchy veggies make for a satisfying lunch!"
+type: "recipes"
 ---
 
 ### Ingredients:

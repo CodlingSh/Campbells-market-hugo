@@ -13,8 +13,8 @@ main {
 }
 
 #recipes {
-    /* display: flex;
-    justify-content: space-between;
+    /* display: flex; */
+    /*justify-content: space-between;
     flex-direction: row;
     flex-wrap: wrap; */
     display: grid;
@@ -31,6 +31,21 @@ main {
     background: #121212;
     /* margin: 10px; */
 }
+
+#recipe_article {
+    width: 95%;
+    height: auto;
+    max-width: 775px;
+    margin: 0 auto;
+}
+#recipe_title {
+    text-align: center;
+}
+#recipe_article img {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}  
 
 /* #recipePic {
     display: block;

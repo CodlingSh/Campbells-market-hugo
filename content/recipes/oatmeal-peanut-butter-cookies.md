@@ -3,6 +3,7 @@ title: "Oatmeal Peanut Butter Cookies"
 date: 2023-04-20T00:37:28-04:00
 draft: true
 description: "This recipe is for delicious oatmeal peanut butter cookies that are soft and chewy on the inside with a slightly crisp exterior. The cookies are made with a combination of all-purpose flour, rolled oats, creamy peanut butter, and a hint of cinnamon for added flavor. The dough is portioned out onto a baking sheet, flattened with a fork to create a criss-cross pattern, and baked until golden brown. These cookies are perfect for a snack, dessert, or as a treat to share with friends and family."
+type: "recipes"
 ---
 
 ### Ingredients:

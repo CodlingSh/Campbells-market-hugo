@@ -3,6 +3,7 @@ title: "Pan Fried Chicken"
 date: 2023-04-19T00:29:57-04:00
 draft: true
 description: Make sure to change this.
+type: "recipes"
 ---
 
 ### Ingredients:

@@ -2,6 +2,7 @@
 title: "Breakfast Omelette"
 date: 2023-04-19T00:09:12-04:00
 description: "This easy omelette is a classic breakfast dish that can be customized with your favorite fillings. It's fluffy, cheesy, and ready in minutes!"
+type: "recipes"
 ---
 
 ### Ingredients:

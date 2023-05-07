@@ -1,0 +1,16 @@
+<section id="contactSect">
+    <form name='contact' target="dummyFrame" method='POST' data-netlify="true" onsubmit="return validateContact()">
+        <!-- Name -->
+        <label for="name">Name<span class="errNotif" id="nameLbl"></span></label>
+        <input type="text" id="name" name="name">
+        <!-- Email -->
+        <label for="email">Email Address<span class="errNotif" id="emailLbl"></span></label>
+        <input type="text" id="email" name="email">
+        <!-- Message -->
+        <label for="messageBox">Your Message<span class="errNotif" id="msgLbl"></span></label>
+        <textarea id="messageBox" name="messageBox" rows="8"></textarea>
+        <!-- Submit Button -->
+        <input class="buttonMain" type="submit" id="submitBtn" value="Send Message">
+        <div id="validMessage"></div>
+    </form>
+</section>

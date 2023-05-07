@@ -2,6 +2,8 @@
 title: "Quiche Lorraine"
 date: 2023-04-19T00:11:28-04:00
 description: "This rich and savory quiche Lorraine is a French classic. Made with a flaky pie crust, eggs, cream, crispy bacon, and grated Gruyere cheese, this dish is perfect for brunch, lunch or dinner. Serve it warm or at room temperature for a delicious and satisfying meal!"
+imageURL: "/images/recipes/deviled-eggs.jpg"
+type: "recipes"
 ---
 
 ### Ingredients:

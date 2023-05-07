@@ -2,6 +2,8 @@
 title: "Spanish Tortilla"
 date: 2023-04-19T00:13:59-04:00
 description: "This hearty and flavorful Spanish tortilla is a traditional dish made with potatoes, onions, and eggs. It's perfect for breakfast, brunch, or a light dinner, and can be served warm or at room temperature. With its golden brown crust and tender, flavorful filling, this dish is sure to become a favorite!"
+imageURL: "/images/recipes/deviled-eggs.jpg"
+type: "recipes"
 ---
 
 ### Ingredients:

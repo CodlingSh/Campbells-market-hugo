@@ -3,6 +3,7 @@ title: "Oreo Cheese Cake"
 date: 2023-04-20T00:33:25-04:00
 draft: true
 description: "This recipe is for a delicious Oreo cheesecake with a chocolatey Oreo cookie crust and a creamy, decadent filling made with cream cheese, sugar, eggs, and sour cream. Chopped Oreo cookies are folded into the batter for added texture and flavor. The cheesecake is baked until set and then chilled in the refrigerator for several hours or overnight before serving. It's a perfect dessert for any occasion, especially for Oreo and cheesecake lovers!"
+type: "recipes"
 ---
 
 ### Ingredients:

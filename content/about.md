@@ -1,17 +1,13 @@
 ---
-title: "About"
+title: "About Us"
 ---
 
-## About Us
+Hi there! My name is Campbell and I'm so excited to tell you about our family business, Campbell's Market! My dad and I started this business together because we love fresh, delicious produce and we want to share that love with our community.
 
-Welcome to Campbell's Market, your friendly neighborhood grocery store in Sarnia! We are a family-owned business that has been serving the community for over 50 years.
+At Campbell's Market, we sell all sorts of fresh fruits and vegetables! We've got juicy tomatoes, crispy bell peppers, sweet corn, crunchy carrots, leafy lettuce, and so much more! But my favorite thing that we sell is our farm-fresh eggs. They're so tasty and they make the best omelettes!
 
-At Campbell's Market, we are passionate about providing our customers with the freshest, highest-quality produce, meats, and groceries. We work closely with local farmers and suppliers to ensure that we always have the freshest and most delicious products available.
+I love helping my dad at the market. We wake up early in the morning to go to the farm and pick out the best produce for our customers. We work hard to make sure everything is fresh and ready to go. Then we load up our truck and head to the market to set up our stand.
 
-In addition to our wide selection of fresh produce, meats, and groceries, we also offer a variety of homemade baked goods and prepared foods. Our bakery is renowned for its delicious bread, pastries, and cakes, all made with the finest ingredients and baked fresh daily.
+I love meeting all of our customers at the market. They're always so happy to see us and we're happy to see them too! We love chatting with everyone and sharing recipes and cooking tips. It's so much fun to see all of the different ways people use our produce in their cooking.
 
-At Campbell's Market, we believe in providing personalized service and building strong relationships with our customers. Our knowledgeable and friendly staff are always ready to help you find what you need, answer your questions, and provide recommendations.
-
-We are committed to being a responsible and sustainable business, and we work hard to reduce our environmental impact through initiatives such as using eco-friendly packaging and sourcing local and organic products.
-
-Thank you for choosing Campbell's Market as your go-to grocery store in Sarnia. We look forward to serving you and your family for many years to come!
+If you're ever in town, come visit us at Campbell's Market! We'd love to show you all of the fresh and delicious things we have to offer. And who knows, maybe you'll even get to meet me!

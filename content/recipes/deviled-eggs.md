@@ -2,6 +2,8 @@
 title: "Deviled Eggs"
 date: 2023-04-19T00:15:56-04:00
 description: "These classic deviled eggs are the perfect appetizer or snack for any occasion. With a creamy and flavorful filling made from egg yolks, mayonnaise, and Dijon mustard, these eggs are quick and easy to make, and always a crowd-pleaser. Sprinkled with paprika and fresh parsley, they're a simple yet elegant dish that everyone will enjoy!"
+imageURL: "/images/recipes/deviled-eggs.jpg"
+type: "recipes"
 ---
 
 ### Ingredients:

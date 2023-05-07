@@ -3,6 +3,7 @@ title: "Shakshuka"
 date: 2023-04-19T23:27:23-04:00
 draft: true
 description: "Shakshuka is a Middle Eastern and North African dish where eggs are poached in a spicy tomato sauce. This recipe features sautéed onions, red bell peppers, and garlic, with added spices like paprika and cumin, simmered with crushed tomatoes. Eggs are then poached directly in the sauce and the dish is finished with a garnish of fresh parsley. Shakshuka is typically served with crusty bread or pita and makes for a hearty and flavorful breakfast or brunch"
+type: "recipes"
 ---
 
 ### Ingredients:

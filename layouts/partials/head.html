@@ -13,5 +13,9 @@
     {{ else }}
     <link rel="stylesheet" type="text/css" href="/css/nonMain.css">
     {{ end }}
+
+    {{ if or (eq .RelPermalink "/") (eq .RelPermalink "/contact/")}}
+    <link rel="stylesheet" type="text/css" href="/css/contact.css">
+    {{ end }}
     <title>Campbells Market</title>
 </head>

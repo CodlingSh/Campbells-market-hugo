@@ -3,6 +3,7 @@ title: "Frittata"
 date: 2023-04-10T00:50:20-04:00
 draft: false
 description: Make sure to change this.
+type: "recipes"
 ---
 
 ### Ingredients:

@@ -3,6 +3,7 @@ title: "Bran Muffins"
 date: 2023-04-19T00:26:56-04:00
 draft: true
 description: "Sure! This classic bran muffin recipe features a deliciously wholesome combination of wheat bran, whole wheat flour, and brown sugar. Moist and fluffy, they're perfect for a quick breakfast or snack on-the-go."
+type: "recipes"
 ---
 
 ### Ingredients:

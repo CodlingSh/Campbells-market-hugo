@@ -3,6 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 description: Make sure to change this.
+type: "recipes"
 ---
 
 ### Ingredients:

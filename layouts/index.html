@@ -4,7 +4,7 @@
     <section id="aboutSect">
         <p>Here at Campbell's Market, we belive that fresh and homemade is best!</p>
         <p>We only sell high-quality food that comes right from our backyard farm and is free from harmful chemicals and additives</p>
-        <a href="/about.html" class="buttonMain">Learn More</a>
+        <a href="/about" class="buttonMain">Learn More</a>
     </section>
 
     <section id="feedSect">
@@ -17,15 +17,14 @@
     <section id="recipeSect">
         <h3 class="sectHeadline">RECIPES</h3>
         <p>Need some recipes for your eggs? Check out some of our favorite recipes below:</p>
-        <div id="recipes">
+        <div id="mainRecipes">
 
-            {{- range where .Site.RegularPages "Type" "recipes" | first 3}}
-            <div class="recipe">
-                <img src=../static/images/recipeTest.jpg height="150">
-                <h3 class="recipeTitle">{{ .Title }}</h3>
-                <p class="recipeHeadline">{{ .Description }}</p>
-                <a href="/recipes/10.html" class="buttonMain">View Recipe</a>
-            </div>
+            {{- range where .Site.RegularPages "Type" "recipes" | first 5}}
+            <a href="{{ .RelPermalink }}" class="recipe">
+                <img src="{{ .Params.imageURL }}" height="150">
+                <h4 class="recipeTitle">{{ .Title }}</h4>
+                <p class="recipeDesc">{{ .Description }}</p>
+            </a>
             {{ end -}}
         
         </div>

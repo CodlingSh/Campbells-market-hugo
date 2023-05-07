@@ -3,6 +3,7 @@ title: "Eggs Benedict"
 date: 2023-04-20T00:55:34-04:00
 draft: true
 description: "Eggs Benedict is a classic breakfast or brunch dish consisting of a toasted English muffin, topped with Canadian bacon or ham, a poached egg, and Hollandaise sauce. The dish is named after a New York City restaurant, and its origin is unclear, though it is believed to have been created in the late 19th century. Eggs Benedict is a rich and indulgent dish that is popular around the world and is often served with a side of roasted potatoes or mixed greens."
+type: "recipes"
 ---
 
 ### Ingredients:

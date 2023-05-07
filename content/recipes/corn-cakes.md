@@ -3,6 +3,7 @@ title: "Corn Cakes"
 date: 2023-04-20T00:41:02-04:00
 draft: true
 description: "Corn cakes are a type of pancake made with a mixture of cornmeal and flour. They have a slightly crunchy texture on the outside and are fluffy and tender on the inside. Corn cakes can be sweet or savory and are often flavored with herbs and spices. They are typically served as a side dish or appetizer and can be topped with a variety of ingredients, such as butter, syrup, sour cream, or cheese."
+type: "recipes"
 ---
 
 ### Ingredients:

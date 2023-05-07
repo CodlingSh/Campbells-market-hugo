@@ -3,6 +3,7 @@
 <main>
     <article id="recipe_article">
         <h1 id="recipe_title">{{ .Title }}</h1>
+        <img src={{ .Params.ImageURL }}  width="350">
         <p id="recipe_description">{{ .Description }}</p>
         <p id="recipe_content">{{ .Content }}</p>
     </article>

@@ -3,6 +3,7 @@ title: "Egg-lish Muffin"
 date: 2023-04-19T23:19:54-04:00
 draft: true
 description: "This recipe is for a homemade breakfast sandwich that is similar to an Egg McMuffin. It features a toasted English muffin, Canadian bacon or ham, a fried egg with a runny yolk, melted cheddar cheese, and is seasoned with salt and pepper. It's a quick and easy breakfast option that can be customized to your liking!"
+type: "recipes"
 ---
 
 ### Ingredients:
